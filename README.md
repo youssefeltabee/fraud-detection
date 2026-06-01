@@ -1,5 +1,12 @@
 # Fraud Detection with ML
 
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python)
+![XGBoost](https://img.shields.io/badge/XGBoost-0.935%20AUC-EC1C24)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8-F7931E?logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.11-EE4C2C?logo=pytorch)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.35-FF4B4B?logo=streamlit)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Compare **XGBoost**, **Isolation Forest**, and **Autoencoder** on synthetic transaction data. Includes SHAP explainability and a Streamlit dashboard for real-time scoring.
 
 ## Model Comparison
